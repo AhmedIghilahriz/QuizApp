@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Quel est l'organe le plus grand du corps humain ?",
+      "answers": ["Cerveau", "Poumon", "Foie", "Peau"],
+      "correctAnswerIndex": 3,
+      "feedback": "Correct!",
+      "difficulty": "facile",
+      "category": "biologie"
+    },
+    {
+      "question": "Quelle est la distance moyenne de la Terre au Soleil ?",
+      "answers": ["100 millions de km", "150 millions de km", "200 millions de km", "250 millions de km"],
+      "correctAnswerIndex": 1,
+      "feedback": "Bien joué!",
+      "difficulty": "moyen",
+      "category": "astronomie"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "answers": ["Victor Hugo", "Charles Dickens", "Leo Tolstoï", "Fyodor Dostoevsky"],
+      "correctAnswerIndex": 0,
+      "feedback": "Exact!",
+      "difficulty": "difficile",
+      "category": "littérature"
+    }
+  ]
+}
